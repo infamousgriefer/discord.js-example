@@ -1,5 +1,5 @@
 # discord.js-example
-- This is a example for a discord.js v14 bot
+- This is an example for a discord.js v14 bot
 
 # Requirements
 - [NodeJS](https://nodejs.org/en)
